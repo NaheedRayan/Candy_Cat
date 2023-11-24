@@ -65,7 +65,9 @@ Candy_Cat
 
 The ``final game`` folder is the final Project that you can run in PC.
 
-![Screenshot](images/screenshot.png)
+![Screenshot](https://github.com/NaheedRayan/Candy_Cat/blob/main/01.png)
+![Screenshot](https://github.com/NaheedRayan/Candy_Cat/blob/main/02.png)
+![Screenshot](https://github.com/NaheedRayan/Candy_Cat/blob/main/03.png)
 
 
 
